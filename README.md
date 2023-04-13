@@ -1,8 +1,8 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKHQL2_ziz1wUAXqy72o1ove2zMGNmtQARA&usqp=CAU)](https://gstatic.com)
 <h1 align="center">Hi 👋, I'm Mohammad Anas</h1>
 <h3 align="center">A passionate Penetration Tester and Cyber Security Analyst from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SameMistyArcherfish-max-1mb.gif">
-<br>
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/SameMistyArcherfish-max-1mb.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadanas01&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadanas01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadanas01" alt="mohammadanas01" /></a> </p>
